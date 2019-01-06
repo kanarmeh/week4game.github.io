@@ -1,0 +1,71 @@
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2016/04/15/04/02/water-1330252_1280.jpg");
+  }
+  
+  #scores {
+    width: 210px;
+    height: 100px;
+    padding: 4px;
+    color: ghostwhite;
+    background-color: rgb(13, 80, 80);
+  }
+ 
+  #title {
+    width: 450px;
+    padding: 4px;
+    margin-bottom: 10px;
+    color: white;  }
+  
+  #screen {
+    overflow: auto;
+  }
+  
+  #screen div {
+    float: left;
+  }
+
+  #randomsec {
+    width: 200px;
+    height: 100px;
+    padding: 4px;
+    font-size: 50px;
+    color: white;
+    background-color: rgb(4, 77, 37);
+  }
+  
+
+  .tasresmi {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    background-color: white;
+    border: solid;
+    border-color: rgb(145, 188, 202);
+  }
+
+   
+  #yourscore {
+    width: 210px;
+    padding: 4px;
+    margin-bottom: 10px;
+    color: white;
+    background-color: rgb(32, 97, 97);
+  }
+  
+  .tastusu {
+    display: inline;
+  }
+  
+  
+  
+  #winsec {
+    height: 100px;
+    padding: 4px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    background-color: rgb(140, 243, 243);
+  }
+  
+  #scorenumarasi {
+    font-size: 50pt;
+  }
